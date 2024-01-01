@@ -1,9 +1,9 @@
-#include<stdio.h>
-int main(){
-    int arr[6][6];
-    for(int i=0;i<6;i++){
-        for(int j=0;j<6;j++){
-            scanf("%d",&arr[i][j]);
+#include<stdio.h><br/>
+int main(){<br/>
+    int arr[6][6];<br/>
+    for(int i=0;i<6;i++){<br/>
+        for(int j=0;j<6;j++){<br/>
+            scanf("%d",&arr[i][j]);<br/>
         }
     }
     int arr2[4][4];
